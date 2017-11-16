@@ -1,0 +1,390 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "First_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Second_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Value_Multiply",
+          "type": "Age_slot_Multipy"
+        },
+        {
+          "name": "Value_Future",
+          "type": "Age_Statement_Assign_Absolute_Future_slot"
+        }
+      ],
+      "intent": "Age_Assign_Future_Multipy"
+    },
+    {
+      "slots": [
+        {
+          "name": "First_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Second_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Relation",
+          "type": "Age_slot_Present_Relation"
+        },
+        {
+          "name": "Value_Future",
+          "type": "Age_Statement_Assign_Absolute_Future_slot"
+        }
+      ],
+      "intent": "Age_Assign_Future_Relation"
+    },
+    {
+      "slots": [
+        {
+          "name": "First_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Second_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Value_Multiply",
+          "type": "Age_slot_Multipy"
+        },
+        {
+          "name": "Value_Past",
+          "type": "Age_Statement_Assign_Absolute_Past_slot"
+        }
+      ],
+      "intent": "Age_Assign_Past_Multipy"
+    },
+    {
+      "slots": [
+        {
+          "name": "First_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Second_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Relation",
+          "type": "Age_slot_Present_Relation"
+        },
+        {
+          "name": "Value_Past",
+          "type": "Age_Statement_Assign_Absolute_Past_slot"
+        }
+      ],
+      "intent": "Age_Assign_Past_Relation"
+    },
+    {
+      "slots": [
+        {
+          "name": "First_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Second_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Value_Multiply",
+          "type": "Age_slot_Multipy"
+        }
+      ],
+      "intent": "Age_Assign_Present_Multipy"
+    },
+    {
+      "slots": [
+        {
+          "name": "First_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Second_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Relation",
+          "type": "Age_slot_Present_Relation"
+        }
+      ],
+      "intent": "Age_Assign_Present_Relation"
+    },
+    {
+      "intent": "Age_Question_By_Highest"
+    },
+    {
+      "intent": "Age_Question_By_Lowest"
+    },
+    {
+      "slots": [
+        {
+          "name": "Name",
+          "type": "Age_Verbal__List_of_Names"
+        }
+      ],
+      "intent": "Age_Question_By_Name"
+    },
+    {
+      "slots": [
+        {
+          "name": "Name",
+          "type": "Age_Verbal__List_of_Names"
+        }
+      ],
+      "intent": "Age_Question_By_Year"
+    },
+    {
+      "slots": [
+        {
+          "name": "Name",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Value_Future",
+          "type": "Age_Statement_Assign_Absolute_Future_slot"
+        }
+      ],
+      "intent": "Age_Statement_Assign_Absolute_Future"
+    },
+    {
+      "slots": [
+        {
+          "name": "Name",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Value_Past",
+          "type": "Age_Statement_Assign_Absolute_Past_slot"
+        }
+      ],
+      "intent": "Age_Statement_Assign_Absolute_Past"
+    },
+    {
+      "slots": [
+        {
+          "name": "Name",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "Age_Statement_Assign_Absolute_Present"
+    },
+    {
+      "slots": [
+        {
+          "name": "Name",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Year",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "Age_Statement_Assign_Year_Absolute"
+    },
+    {
+      "slots": [
+        {
+          "name": "Name",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Year",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "Age_Statement_Assign_Year_Relative"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Units",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Direction_Absolute",
+          "type": "Direction_slot_Absolute"
+        }
+      ],
+      "intent": "Direction_Absolute_intent"
+    },
+    {
+      "intent": "Direction_Question_Direction_Absolute"
+    },
+    {
+      "intent": "Direction_Question_Direction_Relative"
+    },
+    {
+      "intent": "Direction_Question_Displacement"
+    },
+    {
+      "intent": "Direction_Question_Distance"
+    },
+    {
+      "slots": [
+        {
+          "name": "Units",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Direction_Relative",
+          "type": "Direction_slot_Relative"
+        }
+      ],
+      "intent": "Direction_Relative_intent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Things",
+          "type": "Logic_Arthimetic__List_of_Things"
+        },
+        {
+          "name": "Name",
+          "type": "Age_Verbal__List_of_Names"
+        }
+      ],
+      "intent": "Logic_Arthimetic_Question_By_Name"
+    },
+    {
+      "slots": [
+        {
+          "name": "Things",
+          "type": "Logic_Arthimetic__List_of_Things"
+        }
+      ],
+      "intent": "Logic_Arthimetic_Question_Thing_All"
+    },
+    {
+      "slots": [
+        {
+          "name": "Main_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Secondary_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Things",
+          "type": "Logic_Arthimetic__List_of_Things"
+        }
+      ],
+      "intent": "Logic_Arthimetic_Statement_Exchange"
+    },
+    {
+      "slots": [
+        {
+          "name": "Main_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Secondary_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Things",
+          "type": "Logic_Arthimetic__List_of_Things"
+        }
+      ],
+      "intent": "Logic_Arthimetic_Statement_Relative_Less"
+    },
+    {
+      "slots": [
+        {
+          "name": "Main_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Secondary_User",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Things",
+          "type": "Logic_Arthimetic__List_of_Things"
+        }
+      ],
+      "intent": "Logic_Arthimetic_Statement_Relative_More"
+    },
+    {
+      "slots": [
+        {
+          "name": "Name",
+          "type": "Age_Verbal__List_of_Names"
+        },
+        {
+          "name": "Things",
+          "type": "Logic_Arthimetic__List_of_Things"
+        },
+        {
+          "name": "Quantity",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "Logic_Arthimetic_Statement_Simple"
+    },
+    {
+      "intent": "Logic_Solve_End"
+    },
+    {
+      "intent": "Logic_Solve_Start"
+    }
+  ]
+}

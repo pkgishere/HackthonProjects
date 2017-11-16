@@ -1,0 +1,244 @@
+Age_Assign_Future_Multipy in {Value_Future} year {First_User} will {Value_Multiply} the age of {Second_User}
+Age_Assign_Future_Multipy in {Value_Future} year from  {First_User} will be {Value_Multiply} the age of {Second_User}
+Age_Assign_Future_Multipy {Value_Future} year hence {First_User} will be {Value_Multiply} the age of {Second_User}
+Age_Assign_Future_Multipy in {Value_Future} year {First_User} will be {Value_Multiply} time the age of {Second_User}
+Age_Assign_Future_Multipy in {Value_Future} year {First_User} will be {Value_Multiply} times the age of {Second_User}
+Age_Assign_Future_Multipy in {Value_Future} year from now {First_User} was {Value_Multiply} time the age of {Second_User}
+Age_Assign_Future_Multipy {Value_Future} year hence {First_User} was {Value_Multiply} time the age of {Second_User}
+Age_Assign_Future_Multipy {Value_Future} year {First_User} age will be {Value_Multiply} that of {Second_User}
+Age_Assign_Future_Multipy {Value_Future} year {First_User} age will be {Value_Multiply} that of {Second_User}
+Age_Assign_Future_Multipy {Value_Future} year {First_User} age will be {Value_Multiply} that of {Second_User}
+Age_Assign_Future_Multipy {Value_Future} year {First_User} age will be {Value_Multiply} times that of {Second_User}
+Age_Assign_Future_Multipy in {Value_Future} year  {First_User} age will be {Value_Multiply} times that of {Second_User}
+Age_Assign_Future_Multipy {Value_Future} year hence {First_User} age will be {Value_Multiply} times that of {Second_User}
+Age_Assign_Future_Relation in {Value_Future} year {First_User} will be {Quantity} years {Relation} than {Second_User}
+Age_Assign_Future_Relation {Value_Future} year {First_User} will be {Quantity} years {Relation} than {Second_User}
+Age_Assign_Future_Relation {Value_Future} year from now {First_User} will be {Quantity} years {Relation} than {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year {First_User} was {Value_Multiply} the age of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year ago {First_User} was {Value_Multiply} the age of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year back {First_User} was {Value_Multiply} the age of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year {First_User} was {Value_Multiply} time the age of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year ago {First_User} was {Value_Multiply} time the age of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year back {First_User} was {Value_Multiply} time the age of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year {First_User} age was {Value_Multiply} that of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year {First_User} age was {Value_Multiply} that of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year {First_User} age was {Value_Multiply} that of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year {First_User} age was {Value_Multiply} times that of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year ago {First_User} age was {Value_Multiply} times that of {Second_User}
+Age_Assign_Past_Multipy {Value_Past} year back {First_User} age was {Value_Multiply} times that of {Second_User}
+Age_Assign_Past_Relation {Value_Past} year ago {First_User} was {Quantity} years {Relation} than {Second_User}
+Age_Assign_Past_Relation {Value_Past} year back {First_User} was {Quantity} years {Relation} than {Second_User}
+Age_Assign_Past_Relation {Value_Past} year {First_User} was {Quantity} years {Relation} than {Second_User}
+Age_Assign_Present_Multipy {First_User} is {Value_Multiply} the age of {Second_User}
+Age_Assign_Present_Multipy {First_User} is {Value_Multiply} time the age of {Second_User}
+Age_Assign_Present_Multipy {First_User} age is {Value_Multiply} that of {Second_User}
+Age_Assign_Present_Multipy {First_User} age is {Value_Multiply} times that of {Second_User}
+Age_Assign_Present_Relation {First_User} is {Quantity} years {Relation} than {Second_User}
+Age_Assign_Present_Relation Currently {First_User} is {Quantity} years {Relation} than {Second_User}
+Age_Question_By_Highest who has max age
+Age_Question_By_Highest who has maximum age
+Age_Question_By_Highest can you tell me the name of person whos age is maximum
+Age_Question_By_Highest which one has highest age
+Age_Question_By_Highest who is eldest of all
+Age_Question_By_Highest who is eldest
+Age_Question_By_Lowest who has min age
+Age_Question_By_Lowest who is youngest of all
+Age_Question_By_Lowest who is youngest
+Age_Question_By_Lowest who has minimum age
+Age_Question_By_Lowest can you tell me the name of person whos age is minimum
+Age_Question_By_Lowest which one has lowest age
+Age_Question_By_Name what is the age of {Name}
+Age_Question_By_Name can you tell me {Name} age
+Age_Question_By_Name what is the {Name} age
+Age_Question_By_Name can you tell me age of {Name}
+Age_Question_By_Year when was {Name} born
+Age_Question_By_Year which year was {Name} born
+Age_Question_By_Year what is the date of birth of {Name}
+Age_Question_By_Year Can you tell me year of birth of {Name}
+Age_Question_By_Year Can you tell me what is the date of birth of {Name}
+Age_Question_By_Year Can you tell me when was {Name} born
+Age_Statement_Assign_Absolute_Future after {Value_Future} year {Name} will be {Quantity} year old
+Age_Statement_Assign_Absolute_Future after {Value_Future} year {Name} will be {Quantity} year
+Age_Statement_Assign_Absolute_Future after {Value_Future} year {Name} will be {Quantity}
+Age_Statement_Assign_Absolute_Future after {Value_Future} year age of {Name} will be {Quantity} year
+Age_Statement_Assign_Absolute_Future {Value_Future} year age of {Name} will be {Quantity}
+Age_Statement_Assign_Absolute_Future {Value_Future} year {Name} will be {Quantity} year old
+Age_Statement_Assign_Absolute_Future {Value_Future} year {Name} will be {Quantity}
+Age_Statement_Assign_Absolute_Future after {Value_Future} years {Name} will be {Quantity} year old
+Age_Statement_Assign_Absolute_Future after {Value_Future} years {Name} will be {Quantity} year
+Age_Statement_Assign_Absolute_Future after {Value_Future} years {Name} will be {Quantity}
+Age_Statement_Assign_Absolute_Future after {Value_Future} years age of {Name} will be {Quantity} year
+Age_Statement_Assign_Absolute_Future {Value_Future} years age of {Name} will be {Quantity}
+Age_Statement_Assign_Absolute_Future {Value_Future} years age of {Name} will be {Quantity}
+Age_Statement_Assign_Absolute_Future {Value_Future} years age of {Name} will be {Quantity}
+Age_Statement_Assign_Absolute_Future age of {Name} will be {Quantity} years in {Value_Future} years
+Age_Statement_Assign_Absolute_Future {Name} will be {Quantity} years in {Value_Future} years
+Age_Statement_Assign_Absolute_Future {Name} will be {Quantity} years old in {Value_Future} years
+Age_Statement_Assign_Absolute_Future {Value_Future} years {Name} will be {Quantity} year old
+Age_Statement_Assign_Absolute_Future {Value_Future} years {Name} will be {Quantity}
+Age_Statement_Assign_Absolute_Future In {Value_Future} years age of {Name} will be {Quantity}
+Age_Statement_Assign_Absolute_Future In {Value_Future} year age of {Name} will be {Quantity}
+Age_Statement_Assign_Absolute_Past {Value_Past} year {Name} was {Quantity} year old
+Age_Statement_Assign_Absolute_Past {Value_Past} year {Name} was {Quantity}
+Age_Statement_Assign_Absolute_Past {Value_Past} year {Name} was {Quantity} year
+Age_Statement_Assign_Absolute_Past {Value_Past} year age of {Name} was {Quantity}
+Age_Statement_Assign_Absolute_Past {Value_Past} year ago {Name} was {Quantity} year old
+Age_Statement_Assign_Absolute_Past From {Value_Past} year hence {Name} was {Quantity} year old
+Age_Statement_Assign_Absolute_Past {Value_Past} years {Name} was {Quantity} year old
+Age_Statement_Assign_Absolute_Past {Value_Past} years {Name} was {Quantity}
+Age_Statement_Assign_Absolute_Past {Value_Past} years {Name} was {Quantity} years
+Age_Statement_Assign_Absolute_Past {Value_Past} years age of {Name} was {Quantity}
+Age_Statement_Assign_Absolute_Past {Value_Past} years ago {Name} was {Quantity} years old
+Age_Statement_Assign_Absolute_Past From {Value_Past} years hence {Name} was {Quantity} year old
+Age_Statement_Assign_Absolute_Past {Value_Past} year ago {Name} was {Quantity} year
+Age_Statement_Assign_Absolute_Past From {Value_Past} year hence {Name} was {Quantity} year
+Age_Statement_Assign_Absolute_Past {Value_Past} year ago {Name} was {Quantity}
+Age_Statement_Assign_Absolute_Past From {Value_Past} year hence {Name} was {Quantity}
+Age_Statement_Assign_Absolute_Present {Name} is {Quantity} year old today
+Age_Statement_Assign_Absolute_Present {Name} is {Quantity} year old
+Age_Statement_Assign_Absolute_Present {Name} is {Quantity} years old
+Age_Statement_Assign_Absolute_Present age of {Name} is {Quantity} year
+Age_Statement_Assign_Absolute_Present age of {Name} is {Quantity}
+Age_Statement_Assign_Absolute_Present Current age of {Name} is {Quantity} year
+Age_Statement_Assign_Absolute_Present Currently age of {Name} is {Quantity}
+Age_Statement_Assign_Absolute_Present Current age of {Name} is {Quantity}
+Age_Statement_Assign_Absolute_Present Currently {Name} is {Quantity} years old
+Age_Statement_Assign_Absolute_Present Currently {Name} is {Quantity} year old
+Age_Statement_Assign_Year_Absolute {Name} was born in {Year}
+Age_Statement_Assign_Year_Absolute The year of birth of {Name} is {Year}
+Age_Statement_Assign_Year_Absolute in {Year} {Name} was born
+Age_Statement_Assign_Year_Relative in {Year} {Name} was {Quantity} year old
+Age_Statement_Assign_Year_Relative in {Year} {Name} will be {Quantity} year old
+Age_Statement_Assign_Year_Relative in {Year} {Name} was {Quantity} year
+Age_Statement_Assign_Year_Relative in {Year} {Name} will be {Quantity} year
+Age_Statement_Assign_Year_Relative in {Year} {Name} was {Quantity}
+Age_Statement_Assign_Year_Relative in {Year} {Name} will be {Quantity}
+Direction_Absolute_intent move {Units} units to {Direction_Absolute}
+Direction_Absolute_intent move {Units} units {Direction_Absolute}
+Direction_Absolute_intent go {Units} units to {Direction_Absolute}
+Direction_Absolute_intent move {Units} miles to {Direction_Absolute}
+Direction_Absolute_intent go {Units} miles to {Direction_Absolute}
+Direction_Absolute_intent move {Units} kilometer to {Direction_Absolute}
+Direction_Absolute_intent go {Units} kilometer to {Direction_Absolute}
+Direction_Absolute_intent move {Units} meter to {Direction_Absolute}
+Direction_Absolute_intent go {Units} meter to {Direction_Absolute}
+Direction_Absolute_intent move {Units} meters to {Direction_Absolute}
+Direction_Absolute_intent go {Units} meters to {Direction_Absolute}
+Direction_Absolute_intent turn {Direction_Absolute} and move {Units} meters
+Direction_Absolute_intent turn {Direction_Absolute} and go {Units} meters
+Direction_Absolute_intent turn {Direction_Absolute}  move {Units} meters
+Direction_Absolute_intent turn {Direction_Absolute} go {Units} meters
+Direction_Absolute_intent turn {Direction_Absolute} and move {Units} unit
+Direction_Absolute_intent turn {Direction_Absolute} and go {Units} unit
+Direction_Absolute_intent turn {Direction_Absolute}  move {Units} unit
+Direction_Absolute_intent turn {Direction_Absolute} go {Units} unit
+Direction_Absolute_intent turn {Direction_Absolute} and move {Units} mile
+Direction_Absolute_intent turn {Direction_Absolute} and go {Units} mile
+Direction_Absolute_intent turn {Direction_Absolute}  move {Units} mile
+Direction_Absolute_intent turn {Direction_Absolute} go {Units} mile
+Direction_Absolute_intent turn {Direction_Absolute} and move {Units} kilometer
+Direction_Absolute_intent turn {Direction_Absolute} and go {Units} kilometer
+Direction_Absolute_intent turn {Direction_Absolute}  move {Units} kilometer
+Direction_Absolute_intent turn {Direction_Absolute} go {Units} kilometer
+Direction_Question_Direction_Absolute what is the curent direction
+Direction_Question_Direction_Absolute direction he is facing
+Direction_Question_Direction_Relative what is the direction with respect to initial point
+Direction_Question_Direction_Relative what is the relative direction
+Direction_Question_Displacement what is the total displacement
+Direction_Question_Displacement Displacement travelled so far
+Direction_Question_Displacement How much displacement we has traveleld so far
+Direction_Question_Displacement what is Displacement travelled so far
+Direction_Question_Distance what is the total distance
+Direction_Question_Distance Distance travelled so far
+Direction_Question_Distance How much distance we has traveleld so far
+Direction_Question_Distance what is Distance travelled so far
+Direction_Relative_intent move {Units} units to {Direction_Relative}
+Direction_Relative_intent go {Units} units to {Direction_Relative}
+Direction_Relative_intent go {Units} units {Direction_Relative}
+Direction_Relative_intent move {Units} miles to {Direction_Relative}
+Direction_Relative_intent go {Units} miles to {Direction_Relative}
+Direction_Relative_intent move {Units} kilometer to {Direction_Relative}
+Direction_Relative_intent go {Units} kilometer to {Direction_Relative}
+Direction_Relative_intent move {Units} meter to {Direction_Relative}
+Direction_Relative_intent go {Units} meter to {Direction_Relative}
+Direction_Relative_intent move {Units} meters to {Direction_Relative}
+Direction_Relative_intent turn {Direction_Relative} and move {Units} meters
+Direction_Relative_intent turn {Direction_Relative} and go {Units} meters
+Direction_Relative_intent turn {Direction_Relative}  move {Units} meters
+Direction_Relative_intent turn {Direction_Relative} go {Units} meters
+Direction_Relative_intent turn {Direction_Relative} and move {Units} unit
+Direction_Relative_intent turn {Direction_Relative} and go {Units} unit
+Direction_Relative_intent turn {Direction_Relative}  move {Units} unit
+Direction_Relative_intent turn {Direction_Relative} go {Units} unit
+Direction_Relative_intent turn {Direction_Relative} and move {Units} mile
+Direction_Relative_intent turn {Direction_Relative} and go {Units} mile
+Direction_Relative_intent turn {Direction_Relative}  move {Units} mile
+Direction_Relative_intent turn {Direction_Relative} go {Units} mile
+Direction_Relative_intent turn {Direction_Relative} and move {Units} kilometer
+Direction_Relative_intent turn {Direction_Relative} and go {Units} kilometer
+Direction_Relative_intent turn {Direction_Relative}  move {Units} kilometer
+Direction_Relative_intent turn {Direction_Relative} go {Units} kilometer
+Direction_Relative_intent go {Units} meters to {Direction_Relative}
+Logic_Arthimetic_Question_By_Name How many {Things} {Name} has
+Logic_Arthimetic_Question_By_Name No of {Things} with {Name}
+Logic_Arthimetic_Question_By_Name Total no of {Things} with {Name}
+Logic_Arthimetic_Question_Thing_All Total no of {Things}
+Logic_Arthimetic_Question_Thing_All How man {Things} are there
+Logic_Arthimetic_Question_Thing_All How many {Things} are there in total
+Logic_Arthimetic_Question_Thing_All sum of all the {Things}
+Logic_Arthimetic_Question_Thing_All summition of all the {Things}
+Logic_Arthimetic_Question_Thing_All what is total no of {Things}
+Logic_Arthimetic_Question_Thing_All what is the count of {Things}
+Logic_Arthimetic_Statement_Exchange {Main_User} took {Quantity} {Things} from {Secondary_User}
+Logic_Arthimetic_Statement_Exchange {Secondary_User} give {Quantity} {Things} to {Main_User}
+Logic_Arthimetic_Statement_Exchange {Quantity} {Things} are transrfered from {Secondary_User} to {Main_User}
+Logic_Arthimetic_Statement_Exchange {Main_User} got {Quantity} {Things} from {Secondary_User}
+Logic_Arthimetic_Statement_Exchange {Main_User} has {Quantity} {Things} which are given by {Secondary_User}
+Logic_Arthimetic_Statement_Exchange {Secondary_User} gave {Quantity} {Things} to {Main_User}
+Logic_Arthimetic_Statement_Exchange {Main_User} rented {Quantity} {Things} from {Secondary_User}
+Logic_Arthimetic_Statement_Exchange {Main_User} brought {Quantity} {Things} from {Secondary_User}
+Logic_Arthimetic_Statement_Exchange {Main_User} took {Quantity} {Things} from {Secondary_User}
+Logic_Arthimetic_Statement_Relative_Less   {Main_User} has {Quantity} less {Things}  than {Secondary_User}
+Logic_Arthimetic_Statement_Relative_Less   no of {Things} of {Main_User} is {Quantity} less than {Secondary_User}
+Logic_Arthimetic_Statement_Relative_Less   {Main_User} got {Quantity} {Things} less than {Secondary_User}
+Logic_Arthimetic_Statement_Relative_Less   {Main_User} has {Quantity} fewer {Things}  than {Secondary_User}
+Logic_Arthimetic_Statement_Relative_Less   no of {Things} of {Main_User} is {Quantity} fewer than {Secondary_User}
+Logic_Arthimetic_Statement_Relative_Less   {Main_User} got {Quantity} {Things} fewer than {Secondary_User}
+Logic_Arthimetic_Statement_Relative_More   {Main_User} has {Quantity} more {Things} than {Secondary_User}
+Logic_Arthimetic_Statement_Relative_More   no of {Things}  of {Main_User} is {Quantity} more than {Secondary_User}
+Logic_Arthimetic_Statement_Relative_More   {Main_User} got {Quantity} {Things}  more than {Secondary_User}
+Logic_Arthimetic_Statement_Simple {Name} has {Quantity} {Things}
+Logic_Arthimetic_Statement_Simple {Name} found {Quantity} {Things}
+Logic_Arthimetic_Statement_Simple {Name} picked {Quantity} {Things} from the table
+Logic_Arthimetic_Statement_Simple {Name} picked {Quantity} {Things} from the tree
+Logic_Arthimetic_Statement_Simple {Name} picked {Quantity}	{Things}
+Logic_Arthimetic_Statement_Simple {Name} found {Quantity} {Things} on the beach
+Logic_Arthimetic_Statement_Simple {Name} had {Quantity} {Things} in her bank
+Logic_Arthimetic_Statement_Simple {Name} grew {Quantity} {Things}
+Logic_Arthimetic_Statement_Simple {Name} has {Quantity} {Things}
+Logic_Arthimetic_Statement_Simple {Name} has {Quantity} {Things}
+Logic_Solve_End Quit the program
+Logic_Solve_End End the program
+Logic_Solve_End Quit the question
+Logic_Solve_End End the question
+Logic_Solve_Start logical devils  solve the age problem for me
+Logic_Solve_Start logical devils  Solve a Question
+Logic_Solve_Start logical devils Help me with a Question
+Logic_Solve_Start logical devils Solve a question for me
+Logic_Solve_Start Hi logical devils
+Logic_Solve_Start logical devils Help me solve a Question
+Logic_Solve_Start logical devils Help me solve a Problem
+Logic_Solve_Start ask logical devils  solve the age problem for me
+Logic_Solve_Start ask logical devils  Solve a Question
+Logic_Solve_Start ask logical devils Help me with a Question
+Logic_Solve_Start ask logical devils Solve a question for me
+Logic_Solve_Start ask Hi logical devils
+Logic_Solve_Start ask logical devils Help me solve a Question
+Logic_Solve_Start ask logical devils Help me solve a Problem
+Logic_Solve_Start solve the problem
+Logic_Solve_Start help me solve a question
+Logic_Solve_Start Help me with a Question
+Logic_Solve_Start Solve a question for me
+Logic_Solve_Start Hi logical devils
+Logic_Solve_Start Help me solve a Question
+Logic_Solve_Start Help me solve a Problem
