@@ -1,0 +1,460 @@
+2018-03-18 15:09:38,568 WARNING: Server started at 2018-03-18 15:09:38 [in ImageWebhook.py:234]
+2018-03-18 15:13:46,432 WARNING: Server started at 2018-03-18 15:13:46 [in ImageWebhook.py:234]
+2018-03-18 15:14:07,694 WARNING: Server started at 2018-03-18 15:14:07 [in ImageWebhook.py:234]
+2018-03-18 15:20:26,216 WARNING: Server started at 2018-03-18 15:20:26 [in ImageWebhook.py:238]
+2018-03-18 15:32:52,367 WARNING: Server started at 2018-03-18 15:32:52 [in ImageWebhook.py:248]
+2018-03-18 15:34:10,080 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 30, in processRequest
+    if(req.has_key("queryResult")):
+AttributeError: 'NoneType' object has no attribute 'has_key'
+2018-03-18 15:35:03,267 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 30, in processRequest
+    if(req.has_key("queryResult")):
+AttributeError: 'NoneType' object has no attribute 'has_key'
+2018-03-18 15:35:19,432 WARNING: Server started at 2018-03-18 15:35:19 [in ImageWebhook.py:248]
+2018-03-18 15:35:32,120 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 30, in processRequest
+    if(req.has_key("queryResult")):
+AttributeError: 'NoneType' object has no attribute 'has_key'
+2018-03-18 15:36:05,068 WARNING: Server started at 2018-03-18 15:36:05 [in ImageWebhook.py:248]
+2018-03-18 15:37:25,523 WARNING: Server started at 2018-03-18 15:37:25 [in ImageWebhook.py:248]
+2018-03-18 15:39:04,807 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 30, in processRequest
+    if(req.has_key("queryResult")):
+AttributeError: 'NoneType' object has no attribute 'has_key'
+2018-03-18 15:48:59,417 WARNING: Server started at 2018-03-18 15:48:59 [in ImageWebhook.py:248]
+2018-03-18 15:51:24,382 WARNING: Server started at 2018-03-18 15:51:24 [in ImageWebhook.py:248]
+2018-03-18 15:57:05,463 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 63, in processRequest
+    urllib.urlretrieve(req.get("result").get("resolvedQuery"))
+AttributeError: 'NoneType' object has no attribute 'get'
+2018-03-18 16:05:51,033 WARNING: Server started at 2018-03-18 16:05:51 [in ImageWebhook.py:255]
+2018-03-18 16:16:43,138 WARNING: Server started at 2018-03-18 16:16:43 [in ImageWebhook.py:255]
+2018-03-18 16:17:03,109 WARNING: Server started at 2018-03-18 16:17:03 [in ImageWebhook.py:255]
+2018-03-18 16:17:49,879 WARNING: Server started at 2018-03-18 16:17:49 [in ImageWebhook.py:255]
+2018-03-18 16:25:32,600 WARNING: Server started at 2018-03-18 16:25:32 [in ImageWebhook.py:255]
+2018-03-18 16:27:57,647 WARNING: Server started at 2018-03-18 16:27:57 [in ImageWebhook.py:255]
+2018-03-18 16:33:15,869 WARNING: Server started at 2018-03-18 16:33:15 [in ImageWebhook.py:255]
+2018-03-18 16:37:30,818 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 43, in processRequest
+    macyReply=macy.detect_labels_uri("local-filename.jpg")
+  File "/home/pkgishere/Image/recognizeURI.py", line 69, in detect_labels_uri
+    return get_macy_links(resp)
+  File "/home/pkgishere/Image/recognizeURI.py", line 127, in get_macy_links
+    data = r.json()["searchresultgroups"][0]["products"]["product"]
+KeyError: 'searchresultgroups'
+2018-03-18 16:41:04,229 WARNING: Server started at 2018-03-18 16:41:04 [in ImageWebhook.py:238]
+2018-03-18 16:42:10,781 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 18, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 42, in processRequest
+    macyReply=macy.detect_labels_uri("local-filename.jpg")
+  File "/home/pkgishere/Image/recognizeURI.py", line 69, in detect_labels_uri
+    return get_macy_links(resp)
+  File "/home/pkgishere/Image/recognizeURI.py", line 160, in get_macy_links
+    pushsqldata(response)
+  File "/home/pkgishere/Image/recognizeURI.py", line 190, in pushsqldata
+    x.execute ("INSERT INTO macytable VALUES(%s,%s,%s,%s,%s)", (str(pro_res["title"]), str(pro_res["imageurl"]), str(pro_res["producturl"]), str(pro_res["price"]), str(pro_res["review"])))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xae' in position 4: ordinal not in range(128)
+2018-03-18 16:46:57,204 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 18, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 106, in processRequest
+    context=req["queryResult"]["outputContexts"]
+KeyError: 'queryResult'
+2018-03-18 16:48:29,103 WARNING: Server started at 2018-03-18 16:48:29 [in ImageWebhook.py:239]
+2018-03-18 16:48:45,049 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 18, in Image
+    print(json.dumps(res, indent=4))
+UnboundLocalError: local variable 'res' referenced before assignment
+2018-03-18 16:49:02,069 WARNING: Server started at 2018-03-18 16:49:02 [in ImageWebhook.py:239]
+2018-03-18 16:49:05,563 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 107, in processRequest
+    context=req["queryResult"]["outputContexts"]
+KeyError: 'queryResult'
+2018-03-18 16:54:12,215 WARNING: Server started at 2018-03-18 16:54:12 [in ImageWebhook.py:239]
+2018-03-18 16:54:17,661 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 114, in processRequest
+    startDate=cntx["parameters"]["date-period"]["startDate"].split("/")[0]
+TypeError: string indices must be integers
+2018-03-18 16:55:23,352 WARNING: Server started at 2018-03-18 16:55:23 [in ImageWebhook.py:239]
+2018-03-18 16:55:27,150 WARNING: Server started at 2018-03-18 16:55:27 [in ImageWebhook.py:239]
+2018-03-18 16:55:35,178 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 137, in processRequest
+    macyReply=macy.detect_labels_uri2(ImageName,tag)
+  File "/home/pkgishere/Image/recognizeURI.py", line 107, in detect_labels_uri2
+    return get_macy_links(set(macy_keywords))
+  File "/home/pkgishere/Image/recognizeURI.py", line 127, in get_macy_links
+    data = r.json()["searchresultgroups"][0]["products"]["product"]
+KeyError: 'searchresultgroups'
+2018-03-18 16:56:55,364 WARNING: Server started at 2018-03-18 16:56:55 [in ImageWebhook.py:239]
+2018-03-18 16:57:02,735 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 137, in processRequest
+    macyReply=macy.detect_labels_uri2(ImageName,tag)
+  File "/home/pkgishere/Image/recognizeURI.py", line 107, in detect_labels_uri2
+    return get_macy_links(set(macy_keywords))
+  File "/home/pkgishere/Image/recognizeURI.py", line 128, in get_macy_links
+    data = r.json()["searchresultgroups"][0]["products"]["product"]
+KeyError: 'searchresultgroups'
+2018-03-18 16:58:20,749 WARNING: Server started at 2018-03-18 16:58:20 [in ImageWebhook.py:239]
+2018-03-18 16:58:28,625 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 137, in processRequest
+    macyReply=macy.detect_labels_uri2(ImageName,tag)
+  File "/home/pkgishere/Image/recognizeURI.py", line 107, in detect_labels_uri2
+    return get_macy_links(set(macy_keywords))
+  File "/home/pkgishere/Image/recognizeURI.py", line 130, in get_macy_links
+    data = r.json()["searchresultgroups"][0]["products"]["product"]
+KeyError: 'searchresultgroups'
+2018-03-18 16:58:51,922 WARNING: Server started at 2018-03-18 16:58:51 [in ImageWebhook.py:239]
+2018-03-18 16:58:56,156 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 137, in processRequest
+    macyReply=macy.detect_labels_uri2(ImageName,tag)
+  File "/home/pkgishere/Image/recognizeURI.py", line 107, in detect_labels_uri2
+    return get_macy_links(set(macy_keywords))
+  File "/home/pkgishere/Image/recognizeURI.py", line 130, in get_macy_links
+    data = r.json()["searchresultgroups"][0]["products"]["product"]
+KeyError: 'searchresultgroups'
+2018-03-18 17:07:05,516 WARNING: Server started at 2018-03-18 17:07:05 [in ImageWebhook.py:239]
+2018-03-18 17:09:21,960 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 107, in processRequest
+    context=req["result"]["contexts"]
+KeyError: 'result'
+2018-03-18 17:09:45,793 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 107, in processRequest
+    context=req["result"]["contexts"]
+KeyError: 'result'
+2018-03-18 17:50:28,322 WARNING: Server started at 2018-03-18 17:50:28 [in ImageWebhook.py:239]
+2018-03-18 18:28:44,629 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 43, in processRequest
+    macyReply=macy.detect_labels_uri("local-filename.jpg")
+  File "/home/pkgishere/Image/recognizeURI.py", line 69, in detect_labels_uri
+    return get_macy_links(resp)
+  File "/home/pkgishere/Image/recognizeURI.py", line 130, in get_macy_links
+    data = r.json()["searchresultgroups"][0]["products"]["product"]
+KeyError: 'searchresultgroups'
+2018-03-18 18:51:17,705 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 137, in processRequest
+    macyReply=macy.detect_labels_uri2(ImageName,tag)
+  File "/home/pkgishere/Image/recognizeURI.py", line 107, in detect_labels_uri2
+    return get_macy_links(set(macy_keywords[:3]))
+  File "/home/pkgishere/Image/recognizeURI.py", line 130, in get_macy_links
+    data = r.json()["searchresultgroups"][0]["products"]["product"]
+KeyError: 'searchresultgroups'
+2018-03-18 18:56:58,574 WARNING: Server started at 2018-03-18 18:56:58 [in ImageWebhook.py:239]
+2018-03-18 20:13:14,652 WARNING: Server started at 2018-03-18 20:13:14 [in ImageWebhook.py:239]
+2018-03-18 20:18:11,705 WARNING: Server started at 2018-03-18 20:18:11 [in ImageWebhook.py:239]
+2018-03-18 20:30:22,831 WARNING: Server started at 2018-03-18 20:30:22 [in ImageWebhook.py:239]
+2018-03-18 20:47:14,342 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 43, in processRequest
+    macyReply=macy.detect_labels_uri("local-filename.jpg")
+  File "/home/pkgishere/Image/recognizeURI.py", line 69, in detect_labels_uri
+    return get_macy_links(resp)
+  File "/home/pkgishere/Image/recognizeURI.py", line 163, in get_macy_links
+    pushsqldata(response)
+  File "/home/pkgishere/Image/recognizeURI.py", line 193, in pushsqldata
+    x.execute ("INSERT INTO macytable VALUES(%s,%s,%s,%s,%s)", (str(pro_res["title"]), str(pro_res["imageurl"]), str(pro_res["producturl"]), str(pro_res["price"]), str(pro_res["review"])))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\x99' in position 31: ordinal not in range(128)
+2018-03-18 20:47:25,571 WARNING: Server started at 2018-03-18 20:47:25 [in ImageWebhook.py:239]
+2018-03-18 20:47:42,679 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 43, in processRequest
+    macyReply=macy.detect_labels_uri("local-filename.jpg")
+  File "/home/pkgishere/Image/recognizeURI.py", line 69, in detect_labels_uri
+    return get_macy_links(resp)
+  File "/home/pkgishere/Image/recognizeURI.py", line 163, in get_macy_links
+    pushsqldata(response)
+  File "/home/pkgishere/Image/recognizeURI.py", line 193, in pushsqldata
+    x.execute ("INSERT INTO macytable VALUES(%s,%s,%s,%s,%s)", (str(pro_res["title"]), str(pro_res["imageurl"]), str(pro_res["producturl"]), str(pro_res["price"]), str(pro_res["review"])))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\x99' in position 31: ordinal not in range(128)
+2018-03-18 22:03:53,396 WARNING: Server started at 2018-03-18 22:03:53 [in ImageWebhook.py:239]
+2018-03-18 22:11:51,719 WARNING: Server started at 2018-03-18 22:11:51 [in ImageWebhook.py:239]
+2018-03-22 18:56:45,772 WARNING: Server started at 2018-03-22 18:56:45 [in ImageWebhook.py:239]
+2018-03-22 18:59:01,520 ERROR: Exception on /webhook [POST] [in /usr/local/lib/python2.7/dist-packages/flask/app.py:1560]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "ImageWebhook.py", line 19, in Image
+    res = processRequest(req)
+  File "ImageWebhook.py", line 43, in processRequest
+    macyReply=macy.detect_labels_uri("local-filename.jpg")
+  File "/home/pkgishere/Image/recognizeURI.py", line 69, in detect_labels_uri
+    return get_macy_links(resp)
+  File "/home/pkgishere/Image/recognizeURI.py", line 163, in get_macy_links
+    pushsqldata(response)
+  File "/home/pkgishere/Image/recognizeURI.py", line 193, in pushsqldata
+    x.execute ("INSERT INTO macytable VALUES(%s,%s,%s,%s,%s)", (str(pro_res["title"]), str(pro_res["imageurl"]), str(pro_res["producturl"]), str(pro_res["price"]), str(pro_res["review"])))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xae' in position 19: ordinal not in range(128)
