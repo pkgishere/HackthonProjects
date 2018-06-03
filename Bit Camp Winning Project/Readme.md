@@ -1,8 +1,11 @@
-DareDevil – Giving vision to those without it.
+**DareDevil – Giving vision to those without it.**
+
+
 Bitcamp ​ 2018 (University of Maryland, College Park)
 Winner: 
-​**Best Accessibility Hack by MICROSOFT
-Best Philanthropic Hack by BLOOMBERG**
+​**Best Accessibility Hack by MICROSOFT and Best Philanthropic Hack by BLOOMBERG**
+
+
 Created a Natural language processing application to help visually impaired person.
 The application in voice-assisted and in the real-time process the camera feed and summarizes the
 document captured using the device.
