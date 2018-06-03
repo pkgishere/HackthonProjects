@@ -1,0 +1,4 @@
+gunicorn
+Flask
+flasgger
+flask_restful
