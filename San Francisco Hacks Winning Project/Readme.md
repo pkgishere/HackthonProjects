@@ -2,8 +2,13 @@
 
 
 **Semantic Search of Objects in Images**
+
+
+
 **SF HACKS 2018**
-**Winner:Second Best Hackathon SF HACKS 2018 and Best use of Macy’s Tech API**
+
+
+Winner: **Second Best Hackathon SF HACKS 2018 and Best use of Macy’s Tech API**
 
 
 
@@ -29,7 +34,7 @@ With increase in online social media platforms, there is lot of data in form of 
 
 
 
-4.We integrated this data with Macy’s tech Api and then did our natural language processing to incorporate meaning from the sub fields returned by the API.For example, for clothing recommendation of a shirt you can ask the system questions like  “which one has the lowest prize” and many more.
+4. We integrated this data with Macy’s tech Api and then did our natural language processing to incorporate meaning from the sub fields returned by the API.For example, for clothing recommendation of a shirt you can ask the system questions like  “which one has the lowest prize” and many more.
 
 
 Note: All this is Happening in real time.

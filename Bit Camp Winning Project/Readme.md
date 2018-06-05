@@ -1,9 +1,10 @@
 ﻿**DareDevil – Giving vision to those without it.**
 
 
-Bitcamp ​ 2018 (University of Maryland, College Park)
-Winner: 
-​**Best Accessibility Hack by MICROSOFT and Best Philanthropic Hack by BLOOMBERG**
+**Bitcamp** ​ 2018 (University of Maryland, College Park)
+
+
+Winner: **Best Accessibility Hack by MICROSOFT and Best Philanthropic Hack by BLOOMBERG**
 
 
 Created a Natural language processing application to help visually impaired person.
@@ -41,27 +42,27 @@ the document.
 
 
 
-6.Storing the document and it’s summary for retrieval in future using Voice assistance.
+6. Storing the document and it’s summary for retrieval in future using Voice assistance.
 
 
 
 **Team and individual roles:**
 
 
-Ishan Dikshit (​ishan.juit@gmail.com​) : Integrated Vision API, Coded for Latent Dirichlet
+**Ishan Dikshit** (​ishan.juit@gmail.com​) : Integrated Vision API, Coded for Latent Dirichlet
 Allocation, Tested and debugged front end React Native Application, Cloud Integration and
 deployment.
 
 
-Prashant Garg (​pkgishere@gmail.com​): Integrated Google Assistant and Liked Google Mini
+**Prashant Garg** (​pkgishere@gmail.com​): Integrated Google Assistant and Liked Google Mini
 using Dialog-Flow, Developed Intent Model, Created webhook for back-end web Service
 Integration.
 
 
-Sanchit Narang (​sanchit.narang94@gmail.com​): Developed a front-end React Native App
+**Sanchit Narang** (​sanchit.narang94@gmail.com​): Developed a front-end React Native App
 which takes the photo and send it to the Cloud. Also Created a hardware to setup camera.
 
 
-Suchir Inamdar (​inamdar.shuchir77@gmail.com​): Worked on Integration of Voice with
+**Suchir Inamdar** (​inamdar.shuchir77@gmail.com​): Worked on Integration of Voice with
 Back-end using node.js and tested the system.
 

@@ -76,8 +76,8 @@ The application is built using the AWS platform integrated with Alexa Skills Too
 
 
 
-**Devpost: **https://devpost.com/software/askdevils
+**Devpost:** https://devpost.com/software/askdevils
 
 
 
-**Github:**https://github.com/pkgishere/HackthonProjects/tree/master/Desert%20Hacks%20Winning%20Project
+**Github:** https://github.com/pkgishere/HackthonProjects/tree/master/Desert%20Hacks%20Winning%20Project
